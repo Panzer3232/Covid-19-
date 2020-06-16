@@ -49,4 +49,21 @@ On average it takes 5–6 days from when someone is infected with the virus for 
 ## Time Plot (code shown in notebook but not shown by github :(  
 <img src="covid-19 india/Image Sources/newplot.png">
 
-## Key points on impact of Covid-19 India :-
+## Trajectories of Covid-19 of different countries 
+<img src="covid-19 india/Image Sources/bokeh_plot.png">
+
+<b>As we can see Trajectory of Covid-19 is increasing almost linearly with alarming rate.</b>
+
+## key Points on impact of Covid-19 India :-
+
+1). Maharashtra being number one in covid-19 cases and deaths among all states with 94041 with 3457 deaths till 10th june.
+
+2). Gujrat is number one in Covid-19 death rate .
+
+3). Tamil Nadu is number one in Covid-19 testing among all states with 638846 till 10th june.
+
+4).  Uttar is number one in terms of health facalities  beds among all states.
+
+5).  Maharashtra is number one in terms of most testing labs among all states.
+
+6).  In terms of covid-19 beds Tamil Nadu stands at top .
