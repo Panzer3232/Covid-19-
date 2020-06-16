@@ -67,3 +67,9 @@ On average it takes 5–6 days from when someone is infected with the virus for 
 5).  Maharashtra is number one in terms of most testing labs among all states.
 
 6).  In terms of covid-19 beds Tamil Nadu stands at top .
+
+## Map View of Covid-19 in India 
+<img src="covid-19 india/Image Sources/Map View.png">
+
+## Heat Map of Covid-19 in India
+<img src="covid-19 india/Image Sources/HeatMap.png">
