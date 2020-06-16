@@ -45,4 +45,4 @@ On average it takes 5–6 days from when someone is infected with the virus for 
 4). Number of countries affected by Covid-19 is <b>223</b>
 
 ## Time Plot (as shown in notebook but not shown by github :(  )
-
+<img src="covid-19 india/Image Sources/newplot,png">
