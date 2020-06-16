@@ -84,3 +84,10 @@ On average it takes 5–6 days from when someone is infected with the virus for 
 ## Statewise Covid-19 testing 
 <img src="covid-19 india/Image Sources/Testing.png">
 
+## Statewise Laboratries in India 
+<img src="covid-19 india/Image Sources/Testing1.png">
+
+# Future Contribution 
+Covid-19 Forecasting and Prediction using different models.
+
+# Feel free to suggest changes :)
