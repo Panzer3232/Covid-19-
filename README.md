@@ -14,7 +14,6 @@ At this time, there are no specific vaccines or treatments for COVID-19. However
 
 # Symptoms and protection
 
-
 Most common symptoms:
 fever
 dry cough
@@ -37,6 +36,13 @@ On average it takes 5–6 days from when someone is infected with the virus for 
 
 # In this project I have tried to data visualize it's effect on whole world , specially on our country till 10th june.
 ## Key Points on impact of Covid-19 world :-
-1). USA is the country with most covid-19 cases  in the world followed by Brazil.
+1). USA is the country with most covid-19 cases and most deaths in the world followed by Brazil.
+
 2). Almost 99% of China covid-19 cases have been recovered.
+
+3). Germany is the country with highest increasing Recovery Rate among top 10 most affected countries .
+
+4). Number of countries affected by Covid-19 is <b>223</b>
+
+## Time Plot (as shown in notebook but not shown by github :(  )
 
