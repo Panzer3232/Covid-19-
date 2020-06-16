@@ -36,8 +36,7 @@ People with mild symptoms who are otherwise healthy should manage their symptoms
 On average it takes 5–6 days from when someone is infected with the virus for symptoms to show, however it can take up to 14 days.
 
 # In this project I have tried to data visualize it's effect on whole world , specially on our country till 10th june.
-## Key Points on impact of Covid-19 worl:-
+## Key Points on impact of Covid-19 world :-
 1). USA is the country with most covid-19 cases  in the world followed by Brazil.
-
 2). Almost 99% of China covid-19 cases have been recovered.
 
