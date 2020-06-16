@@ -68,8 +68,19 @@ On average it takes 5–6 days from when someone is infected with the virus for 
 
 6).  In terms of covid-19 beds Tamil Nadu stands at top .
 
+7.) It is seen that almost 66.38 % of Covid-19 patient in India are males.
+
+8). Elderly Population is at higher risk for covid-19.
+
 ## Map View of Covid-19 in India 
 <img src="covid-19 india/Image Sources/Map View.png">
 
 ## Heat Map of Covid-19 in India
 <img src="covid-19 india/Image Sources/HeatMap.png">
+
+## Tree Plot of Covid-19 in India
+<img src="covid-19 india/Image Sources/Tree Plot.png">
+
+## Statewise Covid-19 testing 
+<img src="covid-19 india/Image Sources/Testing.png">
+
