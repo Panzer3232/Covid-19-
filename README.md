@@ -52,7 +52,7 @@ On average it takes 5–6 days from when someone is infected with the virus for 
 ## Trajectories of Covid-19 of different countries 
 <img src="covid-19 india/Image Sources/bokeh_plot.png">
 
-<b>As we can see Trajectory of Covid-19 is increasing almost linearly with alarming rate.</b>
+<b>As we can see Trajectory of Covid-19 in India is increasing almost linearly with alarming rate.</b>
 
 ## key Points on impact of Covid-19 India :-
 
