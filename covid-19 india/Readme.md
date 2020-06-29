@@ -5,3 +5,7 @@
 ## [SIR And SEIR Model Series Part 2](https://towardsdatascience.com/infectious-disease-modelling-beyond-the-basic-sir-model-216369c584c4)
 ## [SIR And SEIR Model Series Part 3](https://towardsdatascience.com/infectious-disease-modelling-fit-your-model-to-coronavirus-data-2568e672dbc7)
 
+
+# Video Support
+## [Time Series Analysis](https://www.youtube.com/watch?v=e8Yw4alG16Q)
+
