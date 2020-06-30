@@ -56,13 +56,13 @@ On average it takes 5–6 days from when someone is infected with the virus for 
 
 ## key Points on impact of Covid-19 India :-
 
-1). Maharashtra being number one in covid-19 cases and deaths among all states with 94041 with 3457 deaths till 10th june.
+1). Maharashtra being number one in covid-19 cases and deaths among all states with 164626 with 7429 deaths till 28th june.
 
 2). Gujrat is number one in Covid-19 death rate .
 
-3). Tamil Nadu is number one in Covid-19 testing among all states with 638846 till 10th june.
+3). Tamil Nadu is number one in Covid-19 testing among all states with 1.11 million till 28th june.
 
-4).  Uttar is number one in terms of health facalities  beds among all states.
+4).  Uttar Pradesh is number one in terms of health facalities  beds among all states.
 
 5).  Maharashtra is number one in terms of most testing labs among all states.
 
