@@ -101,8 +101,12 @@ I have done prediction on Covid-19 India using two time Series Model :- ARIMA Mo
 # Fb Prophet Model
 ## Results of Fb prophet Model
    Fb Prophet Model has predicted number of total cases by 31st July :- <b>1.085 Million</b>.
-      Minimum Cases by 31st July according to this trend :-<b>9,77,848</b>
-      Maximum Cases by 31st July according to this trend :-<b>1.2 Million</b>
-
+   
+   Minimum Cases by 31st July according to this trend :-<b>9,77,848</b>
+      
+   Maximum Cases by 31st July according to this trend :-<b>1.2 Million</b>
+<img src="covid-19 india/Image Sources/Fb1.png">
+<img src="covid-19 india/Image Sources/Fb2.png">
+<img src="covid-19 india/Image Sources/Fb3.png">
   
 # Feel free to suggest changes :)
