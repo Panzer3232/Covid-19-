@@ -40,7 +40,7 @@ On average it takes 5–6 days from when someone is infected with the virus for 
 
 2). Almost 99% of China covid-19 cases have been recovered.
 
-3). Germany is the country with highest increasing Recovery Rate among top 10 most affected countries .
+3). Russia is the country with highest increasing Recovery Rate among top  most affected countries followed by India.
 
 4). Number of countries affected by Covid-19 is <b>223</b>
 
