@@ -89,9 +89,14 @@ On average it takes 5–6 days from when someone is infected with the virus for 
 ## Statewise Laboratries in India 
 <img src="covid-19 india/Image Sources/Labs2.png">
 
-## Covid-19 Forecasting and Prediction using different models.
+# Covid-19 Forecasting and Prediction using different models.
 I have done prediction on Covid-19 India using two time Series Model :- ARIMA Model ,Fb Prophet Model .Data which I have used is of till 28th of June.
 
-## ARIMA Model 
+# ARIMA Model 
+## Results of ARIMA Model
+   ARIMA model has predicted number of total cases by 31st July :- <b>9,89,096</b>.
+<img src="covid-19 india/Image Sources/Arima1.png">
+<img src="covid-19 india/Image Sources/Arima2.png">
 
+  
 # Feel free to suggest changes :)
