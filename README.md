@@ -72,6 +72,8 @@ On average it takes 5–6 days from when someone is infected with the virus for 
 
 8). Elderly Population is at higher risk for covid-19.
 
+9). Meghalya has highest Recovery Rate in the country.
+
 ## Map View of Covid-19 in India 
 <img src="covid-19 india/Image Sources/Map View.png">
 
@@ -79,13 +81,13 @@ On average it takes 5–6 days from when someone is infected with the virus for 
 <img src="covid-19 india/Image Sources/HeatMap.png">
 
 ## Tree Plot of Covid-19 in India
-<img src="covid-19 india/Image Sources/Tree Plot.png">
+<img src="covid-19 india/Image Sources/Tree Plot2.png">
 
 ## Statewise Covid-19 testing 
-<img src="covid-19 india/Image Sources/Testing.png">
+<img src="covid-19 india/Image Sources/Test2.png">
 
 ## Statewise Laboratries in India 
-<img src="covid-19 india/Image Sources/Testing1.png">
+<img src="covid-19 india/Image Sources/Labs2.png">
 
 # Future Contribution 
 ## Covid-19 Forecasting and Prediction using different models.
