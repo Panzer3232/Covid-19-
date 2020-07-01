@@ -4,6 +4,9 @@
 ## [SIR And SEIR Model Series Part 1](https://towardsdatascience.com/infectious-disease-modelling-part-i-understanding-sir-28d60e29fdfc)
 ## [SIR And SEIR Model Series Part 2](https://towardsdatascience.com/infectious-disease-modelling-beyond-the-basic-sir-model-216369c584c4)
 ## [SIR And SEIR Model Series Part 3](https://towardsdatascience.com/infectious-disease-modelling-fit-your-model-to-coronavirus-data-2568e672dbc7)
+## [Fb Prophet Model Quick Guide](https://facebook.github.io/prophet/docs/quick_start.html)
+## [Fb Prophet Model Implementation](https://towardsdatascience.com/implementing-facebook-prophet-efficiently-c241305405a3)          
+
 
 # Video Support
 ## [Time Series Analysis](https://www.youtube.com/watch?v=e8Yw4alG16Q)
