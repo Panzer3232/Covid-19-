@@ -108,11 +108,12 @@ I have done prediction on Covid-19 India using two time Series Model :- ARIMA Mo
    
    According to our trend analysis on given data we can say that cases are likely to increase very much in month of july and August.
    
-   Weekly prediction analysis shows that generally thursday is the day at wich most cases occur in whole week.
+   Weekly prediction analysis shows that generally <b>thursday</b> is the day at wich most cases occur in whole week.
    
    
 <img src="covid-19 india/Image Sources/Fb1.png">
 <img src="covid-19 india/Image Sources/Fb2.png">
 <img src="covid-19 india/Image Sources/Fb3.png">
+<img src="covid-19 india/Image Sources/fb4.png">
   
 # Feel free to suggest changes :)
