@@ -105,6 +105,12 @@ I have done prediction on Covid-19 India using two time Series Model :- ARIMA Mo
    Minimum Cases by 31st July according to this trend :-<b>9,77,848</b>
       
    Maximum Cases by 31st July according to this trend :-<b>1.2 Million</b>
+   
+   According to our trend analysis on given data we can say that cases are likely to increase very much in month of july and August.
+   
+   Weekly prediction analysis shows that generally thursday is the day at wich most cases occur in whole week.
+   
+   
 <img src="covid-19 india/Image Sources/Fb1.png">
 <img src="covid-19 india/Image Sources/Fb2.png">
 <img src="covid-19 india/Image Sources/Fb3.png">
