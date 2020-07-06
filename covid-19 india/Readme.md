@@ -16,3 +16,4 @@
 # Video Support
 ## [Time Series Analysis](https://www.youtube.com/watch?v=e8Yw4alG16Q)
 ## [Covid-19 Forecsting and Prediction using FB Prophet Model](https://www.youtube.com/watch?v=_Hi6_JQesSQ)
+## [ARIMA Model Implementation](https://www.youtube.com/watch?v=bqvZL8Ww3aA)
