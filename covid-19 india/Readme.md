@@ -6,6 +6,7 @@
 ## [SIR And SEIR Model Series Part 3](https://towardsdatascience.com/infectious-disease-modelling-fit-your-model-to-coronavirus-data-2568e672dbc7)
 ## [Fb Prophet Model Quick Guide](https://facebook.github.io/prophet/docs/quick_start.html)
 ## [Fb Prophet Model Implementation](https://towardsdatascience.com/implementing-facebook-prophet-efficiently-c241305405a3)    
+## [ARIMA Model Explanation](https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-forecasting-with-arima-in-python-3#:~:text=forecasting%20with%20ARIMA.-,Step%203%20%E2%80%94%20The%20ARIMA%20Time%20Series%20Model,future%20points%20in%20the%20series.)  
 
 # Data Links for Covid-19 
 ## [Data Link for Covid-19 India ](https://www.kaggle.com/sudalairajkumar/covid19-in-india)  
